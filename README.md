@@ -114,8 +114,8 @@ frontend/
 ### Clone
 
 ```bash
-git clone https://github.com/akramdevstuffs/SIH_RAG.git
-cd SIH_RAG
+git clone https://github.com/aviralp195-hub/rag-query-system-main.git
+cd rag-query-system-main
 ```
 
 
